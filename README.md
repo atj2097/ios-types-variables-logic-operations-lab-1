@@ -25,7 +25,8 @@ let version: Double = 3.0
 
 let emotion: String = ":)"
 
-let grade: Char = "a"
+let grade: Char = "a" 
+None
 ```
 
 ***
